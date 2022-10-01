@@ -3,6 +3,7 @@
 ## ¡Hora de mostrar tu idea al mundo!
 
 Para hacer tu idea, necesitas resumir el problema y la solución que más te llamaron la atención ¡solo en dos oraciones!
+
 Una vez que lo has hecho, debes enviarlas como **new Issue** a este repositorio y ¡ya estarás dentro del sorteo!
 
 [Da click aquí](https://github.com/reneenoble/Imagination-Collaboration-demo/issues) para crear un nuevo Issue.
