@@ -15,9 +15,9 @@ Una vez que lo has hecho, debes enviarlas como **new Issue** a este repositorio 
 Puedes ayudarte de esta imagen, contiene todas las ideas generadas en la sesión. Revísala y encuentra aquellas ideas que te hagan sentir pasión. 
 
 
-[See the brainstorm here in full size](https://github.com/reneenoble/Imagination-Collaboration-demo/blob/main/Imagination-Collaboration-Demo.png?raw=true).
+[See the brainstorm here in full size](https://github.com/ferenike/Imagination-Collaboration-Pitch/blob/main/IC.png?raw=true).
 
-![Brainstorm of ideas for helping pet owners with technology](https://github.com/reneenoble/Imagination-Collaboration-demo/blob/main/Imagination-Collaboration-Demo.png?raw=true)
+![Brainstorm of ideas for helping pet owners with technology](https://github.com/ferenike/Imagination-Collaboration-Pitch/blob/main/IC.png?raw=true)
 
 
 ## Ideas de ejemplo
